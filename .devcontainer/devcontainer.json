@@ -1,7 +1,7 @@
 {
 	"name": "webdev",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/javascript-node:0-18-bullseye",
+	//"image": "mcr.microsoft.com/devcontainers/javascript-node:0-18-bullseye",
 
   "portsAttributes": {
     "3000": {
