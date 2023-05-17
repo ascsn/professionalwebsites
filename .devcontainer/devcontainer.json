@@ -7,6 +7,14 @@
     "3000": {
       "label": "Application",
       "onAutoForward": "openPreview"
+    },
+    "8000": {
+      "label": "Application",
+      "onAutoForward": "openPreview"
+    },
+    "9000": {
+      "label": "Application",
+      "onAutoForward": "openPreview"
     }
   }
 }
