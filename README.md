@@ -32,4 +32,10 @@ A more involved example can be found in `retro`. This mixes together `html` and 
 
 ### A Little More Modern
 
-Now we will fold in a bit of javascript to round out our web framework. We will also use a static sebsite generator framework to leave a lot of the heavy lifting in styling and `html` wrangling. This process is a bit more complicated, but when you deploy this on a static site provider like vercel or netlify these technical details will be handled for you.
+Now we will fold in a bit of javascript to round out our web framework. We will also use a static sebsite generator framework to leave a lot of the heavy lifting in styling and `html` wrangling. This process is a bit more complicated, but when you deploy this on a static site provider like vercel or netlify these technical details will be handled for you. To run, enter the following:
+
+`./runmodern.sh`
+
+This example is pulled straight from my Next.js site hosted on [my personal github page](https://github.com/kylegodbey/kyle-nextjs), which itself was based off of a template. I'll include it here just so you have a sandbox to play in.
+
+
