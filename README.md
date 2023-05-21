@@ -4,6 +4,8 @@ _Presented by the Advanced Scientific Computing and Statistics Network (ASCSN)_
 
 The purpose of this repository is to present a few examples, at different levels of sophistication, of how you can construct a professional website that will act as the authoritative source of your web presence.
 
+Slides can be found [here](https://docs.google.com/presentation/d/1VAOjj8mneREj86s4Q8j2TwCm8KRGypY74grdX59oc8U/edit?usp=sharing)
+
 ## Running the development environment
 
 To streamline the process, you can run the examples in this repository in a cloud-based development environment by using the GitHub`codespaces` feature:
