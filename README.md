@@ -38,6 +38,6 @@ Now we will fold in a bit of javascript to round out our web framework. We will 
 
 `./runmodern.sh`
 
-This example is pulled straight from my Next.js site hosted on [my personal github page](https://github.com/kylegodbey/kyle-nextjs), which itself was based off of a template. I'll include it here just so you have a sandbox to play in.
+This example is pulled from a Next.js tutorial with a few tweaks to show you how it's done. If you want to use this as your template, press the following deploy button!
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fascsn%2Fprofessionalwebsites%2Ftree%2Fmain%2Fmodern%2Fnextjs-blog)
